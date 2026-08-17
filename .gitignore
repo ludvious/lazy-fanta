@@ -33,10 +33,7 @@ go.work.sum
 
 # compiled binary
 /lazy-fanta
-<<<<<<< HEAD
 
 # local docs and session data
-=======
->>>>>>> fed8ae5 (chore: extend gitignore with go template, docs and data)
 /docs
 /data
