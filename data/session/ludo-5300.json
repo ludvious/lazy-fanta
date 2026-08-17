@@ -1,0 +1,136 @@
+{
+  "filepath": "data/session/ludo-5300.json",
+  "session_id": "ludo-5300",
+  "auction_name": "ludo",
+  "updated_at": "2026-08-14 16:07:48",
+  "status": "Active",
+  "purchases": [
+    {
+      "id": 1,
+      "coach": "ludo",
+      "player_name": "di gregorio",
+      "player_role": "Goalkeeper",
+      "cost": 12,
+      "timestamp": "2026-08-14T15:58:26.334027245+02:00"
+    },
+    {
+      "id": 2,
+      "coach": "ludo",
+      "player_name": "dybala",
+      "player_role": "Forward",
+      "cost": 45,
+      "timestamp": "2026-08-14T15:59:29.546147944+02:00"
+    },
+    {
+      "id": 3,
+      "coach": "luca",
+      "player_name": "frattesi",
+      "player_role": "Midfielder",
+      "cost": 3,
+      "timestamp": "2026-08-14T16:06:31.359523221+02:00"
+    },
+    {
+      "id": 4,
+      "coach": "john",
+      "player_name": "saud",
+      "player_role": "Midfielder",
+      "cost": 4,
+      "timestamp": "2026-08-14T16:07:48.774304735+02:00"
+    }
+  ],
+  "coaches": [
+    {
+      "name": "ludo",
+      "info": {
+        "initial_budget": 500,
+        "budget": 443,
+        "max_bid": 421,
+        "total_spent": 57
+      },
+      "players": [
+        {
+          "name": "di gregorio",
+          "role": "Goalkeeper",
+          "cost": 12
+        },
+        {
+          "name": "dybala",
+          "role": "Forward",
+          "cost": 45
+        }
+      ]
+    },
+    {
+      "name": "john",
+      "info": {
+        "initial_budget": 500,
+        "budget": 496,
+        "max_bid": 473,
+        "total_spent": 4
+      },
+      "players": [
+        {
+          "name": "saud",
+          "role": "Midfielder",
+          "cost": 4
+        }
+      ]
+    },
+    {
+      "name": "luca",
+      "info": {
+        "initial_budget": 500,
+        "budget": 497,
+        "max_bid": 474,
+        "total_spent": 3
+      },
+      "players": [
+        {
+          "name": "frattesi",
+          "role": "Midfielder",
+          "cost": 3
+        }
+      ]
+    },
+    {
+      "name": "fante",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "mattia",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "ricc",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "robert",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    }
+  ]
+}

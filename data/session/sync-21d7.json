@@ -1,0 +1,110 @@
+{
+  "filepath": "data/session/sync-21d7.json",
+  "session_id": "sync-21d7",
+  "auction_name": "sync",
+  "updated_at": "2026-08-14 16:35:06",
+  "status": "Active",
+  "purchases": [],
+  "coaches": [
+    {
+      "name": "pippo",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "pluto",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "paperino",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "topolino",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "minni",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "duffyduck",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "tazmania",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "gonzales",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "pacio",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    },
+    {
+      "name": "vanni",
+      "info": {
+        "initial_budget": 500,
+        "budget": 500,
+        "max_bid": 476,
+        "total_spent": 0
+      },
+      "players": []
+    }
+  ]
+}

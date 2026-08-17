@@ -30,3 +30,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# compiled binary
+/lazy-fanta
+
+# local docs and session data
+/docs
+/data
