@@ -1,6 +1,6 @@
 # lazy-fanta
-
-CLI for running a fantacalcio auction. Tracks coaches, budgets, and purchases, persisting each session to JSON.
+Tired of using the standard MS Excel? Or the usual fancy third-party apps you have to pay for?
+You need only a minimal CLI for running a fantacalcio auction. Records coaches, budgets, and purchases, persisting each session to JSON.
 
 ## Build & run
 
