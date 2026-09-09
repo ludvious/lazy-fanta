@@ -96,15 +96,15 @@ The tmux session is named `lazy-fanta-<session-ID>`. Its `watch` window contains
 
 Press `Ctrl-b d` to detach, then return with `tmux attach -t lazy-fanta-<session-ID>`. Panes reflect the coaches present when the command starts; roster changes do not create or remove tmux panes automatically.
 
-### Two-terminal workflow
+### Multi-terminal workflow
 
-Use the same session file from two terminals:
+Use the same session file from multi windows terminals:
 
 ```sh
-# Terminal 1: keep the live squad sheet visible
+# Example Terminal 1: keep the live squad sheet visible
 ./lazy-fanta auction watch <session-ID-or-path>
 
-# Terminal 2: run the REPL and mutate that session
+# Example Terminal 2: run the REPL and mutate that session
 ./lazy-fanta
 > auction load <session-ID-or-path>
 > coach add --name John
